@@ -18,7 +18,7 @@ def clean_number(number)
 end
 
 def time_target
-  #
+  
 end
 
 def legislators_by_zipcode(zip)
